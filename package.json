@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "n-gram": "^2.0.2",
+    "natural": "^6.10.4",
     "string-similarity": "^4.0.4"
   }
 }
